@@ -1,0 +1,9 @@
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Domain\bin\Debug\netcoreapp3.1\Onion.Domain.deps.json
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Domain\bin\Debug\netcoreapp3.1\Onion.Domain.dll
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Domain\bin\Debug\netcoreapp3.1\Onion.Domain.pdb
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.dll
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.pdb
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.csprojAssemblyReference.cache

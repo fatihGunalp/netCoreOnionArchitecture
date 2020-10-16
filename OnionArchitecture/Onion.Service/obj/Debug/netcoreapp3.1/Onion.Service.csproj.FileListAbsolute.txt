@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Service.deps.json
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Service.dll
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Service.pdb
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Domain.dll
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Repository.dll
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Domain.pdb
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\bin\Debug\netcoreapp3.1\Onion.Repository.pdb
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.csproj.CopyComplete
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.dll
+C:\Users\Fatih\Desktop\Github\NetCoreOnionArchitecture\OnionArchitecture\Onion.Service\obj\Debug\netcoreapp3.1\Onion.Service.pdb
